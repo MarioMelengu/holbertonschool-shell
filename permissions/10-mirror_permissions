@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x sync_modes.sh
+chmod --reference=olleh hello
