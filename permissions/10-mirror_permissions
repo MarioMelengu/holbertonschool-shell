@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 680 hello
+chmod +x sync_modes.sh
